@@ -1,0 +1,11 @@
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Middleware\bin\Debug\netcoreapp2.0\NetCore2.Middleware.deps.json
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Middleware\bin\Debug\netcoreapp2.0\NetCore2.Middleware.runtimeconfig.json
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Middleware\bin\Debug\netcoreapp2.0\NetCore2.Middleware.runtimeconfig.dev.json
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Middleware\bin\Debug\netcoreapp2.0\NetCore2.Middleware.dll
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Middleware\bin\Debug\netcoreapp2.0\NetCore2.Middleware.pdb
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Middleware\obj\Debug\netcoreapp2.0\NetCore2.Middleware.csprojAssemblyReference.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Middleware\obj\Debug\netcoreapp2.0\NetCore2.Middleware.csproj.CoreCompileInputs.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Middleware\obj\Debug\netcoreapp2.0\NetCore2.Middleware.AssemblyInfoInputs.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Middleware\obj\Debug\netcoreapp2.0\NetCore2.Middleware.AssemblyInfo.cs
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Middleware\obj\Debug\netcoreapp2.0\NetCore2.Middleware.dll
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Middleware\obj\Debug\netcoreapp2.0\NetCore2.Middleware.pdb

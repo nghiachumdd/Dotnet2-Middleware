@@ -14,7 +14,7 @@ namespace NetCore2.Middleware
 
         public async Task Invoke(HttpContext context)
         {
-            await context.Response.WriteAsync("Hello World (in class) \n");
+            await context.Response.WriteAsync("Hello World 1 (in class) \n");
             await next(context);
         }
     }

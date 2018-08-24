@@ -1,0 +1,11 @@
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.DI\bin\Debug\netcoreapp2.0\NetCore2.DI.deps.json
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.DI\bin\Debug\netcoreapp2.0\NetCore2.DI.runtimeconfig.json
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.DI\bin\Debug\netcoreapp2.0\NetCore2.DI.runtimeconfig.dev.json
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.DI\bin\Debug\netcoreapp2.0\NetCore2.DI.dll
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.DI\bin\Debug\netcoreapp2.0\NetCore2.DI.pdb
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.DI\obj\Debug\netcoreapp2.0\NetCore2.DI.csprojAssemblyReference.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.DI\obj\Debug\netcoreapp2.0\NetCore2.DI.csproj.CoreCompileInputs.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.DI\obj\Debug\netcoreapp2.0\NetCore2.DI.AssemblyInfoInputs.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.DI\obj\Debug\netcoreapp2.0\NetCore2.DI.AssemblyInfo.cs
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.DI\obj\Debug\netcoreapp2.0\NetCore2.DI.dll
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.DI\obj\Debug\netcoreapp2.0\NetCore2.DI.pdb

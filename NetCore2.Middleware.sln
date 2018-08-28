@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore2.Middleware", "NetC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore2.DI", "NetCore2.DI\NetCore2.DI.csproj", "{887195E1-B64B-444B-BE81-36469202F00B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore2.Configuration", "NetCore2.Configuration\NetCore2.Configuration.csproj", "{4ABB2F6D-86FA-47AE-B227-1962C8F458DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore2.Environment", "NetCore2.Environment\NetCore2.Environment.csproj", "{4ABC11E6-3BB1-4187-BB9D-8F54BC961B87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{887195E1-B64B-444B-BE81-36469202F00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{887195E1-B64B-444B-BE81-36469202F00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{887195E1-B64B-444B-BE81-36469202F00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABB2F6D-86FA-47AE-B227-1962C8F458DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABB2F6D-86FA-47AE-B227-1962C8F458DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABB2F6D-86FA-47AE-B227-1962C8F458DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABB2F6D-86FA-47AE-B227-1962C8F458DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABC11E6-3BB1-4187-BB9D-8F54BC961B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABC11E6-3BB1-4187-BB9D-8F54BC961B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABC11E6-3BB1-4187-BB9D-8F54BC961B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABC11E6-3BB1-4187-BB9D-8F54BC961B87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

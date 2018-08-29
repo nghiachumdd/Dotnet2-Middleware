@@ -1,0 +1,10 @@
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.StaticFile\bin\Debug\netcoreapp2.0\NetCore2.StaticFile.deps.json
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.StaticFile\bin\Debug\netcoreapp2.0\NetCore2.StaticFile.runtimeconfig.json
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.StaticFile\bin\Debug\netcoreapp2.0\NetCore2.StaticFile.runtimeconfig.dev.json
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.StaticFile\bin\Debug\netcoreapp2.0\NetCore2.StaticFile.dll
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.StaticFile\bin\Debug\netcoreapp2.0\NetCore2.StaticFile.pdb
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.StaticFile\obj\Debug\netcoreapp2.0\NetCore2.StaticFile.csproj.CoreCompileInputs.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.StaticFile\obj\Debug\netcoreapp2.0\NetCore2.StaticFile.AssemblyInfoInputs.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.StaticFile\obj\Debug\netcoreapp2.0\NetCore2.StaticFile.AssemblyInfo.cs
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.StaticFile\obj\Debug\netcoreapp2.0\NetCore2.StaticFile.dll
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.StaticFile\obj\Debug\netcoreapp2.0\NetCore2.StaticFile.pdb

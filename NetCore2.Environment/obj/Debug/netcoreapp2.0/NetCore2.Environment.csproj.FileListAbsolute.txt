@@ -8,3 +8,4 @@ C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Environme
 C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Environment\obj\Debug\netcoreapp2.0\NetCore2.Environment.AssemblyInfo.cs
 C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Environment\obj\Debug\netcoreapp2.0\NetCore2.Environment.dll
 C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Environment\obj\Debug\netcoreapp2.0\NetCore2.Environment.pdb
+C:\MyFolder\Study\Microsoft.Net\Practices\NetCore2.Middleware\NetCore2.Environment\obj\Debug\netcoreapp2.0\NetCore2.Environment.csprojAssemblyReference.cache
